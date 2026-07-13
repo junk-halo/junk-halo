@@ -12,4 +12,16 @@
 -
 -
 
-![](https://i.postimg.cc/4dTXxCHD/Untitled195-20260626011126.png)
+<p align="center">
+  <font color=#FF9999>kugori !</font>
+</p>
+<p align="center">
+  <font color="#F08080">they/any  &nbsp;&nbsp;&nbsp;greek</font>
+</p>
+<p align="center">
+  <font color="#F08080">c+h enc || w2i preferred</font>
+</p>
+
+(wip)
+
+
