@@ -13,15 +13,11 @@
 -
 
 <p align="center">
-  <font color=#FF9999>kugori !</font>
+  $${\large\color{#FFEBD2}\text{kugori !}}$$
 </p>
 <p align="center">
-  <font color="#F08080">they/any  &nbsp;&nbsp;&nbsp;greek</font>
+  $${\large\color{#E6ADAD}\text{they/any \quad greek}}$$
 </p>
 <p align="center">
-  <font color="#F08080">c+h enc || w2i preferred</font>
+  $${\large\color{#F08080}\text{c+h enc || w2i preferred}}$$
 </p>
-
-(wip)
-
-
