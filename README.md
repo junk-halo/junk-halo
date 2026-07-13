@@ -16,7 +16,7 @@
   $${\large\color{#FFEBD2}\text{kugori !}}$$
 </p>
 <p align="center">
-  $${\large\color{#E6ADAD}\text{they/any \quad greek}}$$
+  $${\large\color{#FEC1B8}\text{they/any &nbsp;- greek}}$$
 </p>
 <p align="center">
   $${\large\color{#F08080}\text{c+h enc || w2i preferred}}$$
