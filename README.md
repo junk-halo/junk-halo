@@ -6,7 +6,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2100&pause=250&color=FF9999&width=450&lines=.+.+.look+into+my+eyes!;lock+your+fingers+into+mine;i+cling+to+every+word+you+say,;like+caramel+on+teeth;cloaked+in+bubblegum+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=3000&color=FF9999&width=450&lines=rage+in+the+cage+and+piss+upon+the+stage;there's+only+one+sure+way+to+bring+the+giant+down;+defunct+the+strings+of+cemetery+things;with+one+flat+foot+on+the+devil's+wing )](https://git.io/typing-svg)
 
 -
 -
