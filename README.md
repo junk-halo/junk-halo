@@ -6,7 +6,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=450&color=FF9999&width=850&lines=rage+in+the+cage+and+piss+upon+the+stage!;there's+only+one+sure+way+to+bring+the+giant++++++++++..+down;+defunct+the+strings+of+cemetery+things,;with+one+flat+foot+on+the+devil's+++++++++wing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=450&color=FF9999&width=850&lines=rage+in+the+cage+and+piss+upon+the+stage!;there's+only+one+sure+way+to+bring+the+giant++++++++++..+down;+defunct+the+strings+of+cemetery+things,;with+one+flat+foot+on+the+devil's+.+.+wing)](https://git.io/typing-svg)
 
 -
 -
