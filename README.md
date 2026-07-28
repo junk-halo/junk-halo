@@ -13,34 +13,13 @@
 -
 
 <p align="center">
-  $${\large
-    \color{#FFEBD2}\text{k}
-    \color{#FEDEC9}\text{u}
-    \color{#FED1BF}\text{g}
-    \color{#FEC5B6}\text{o}
-    \color{#FEC1B8}\text{r}
-    \color{#F5A09C}\text{i}
-  }$$
+  $${\large     \color{#460406}\text{k}     \color{#4D0A0F}\text{u}     \color{#76373B}\text{g}     \color{#9C686C}\text{o}     \color{#C0A09F}\text{r}     \color{#D8D7D3}\text{i}   }$$
 </p>
 
 <p align="center">
-  $${\large
-    \color{#FFEBD2}\text{t}\color{#FFE4CE}\text{h}\color{#FDDDC9}\text{e}\color{#FDD6C5}\text{y}\color{#FDCFC1}\text{/}\color{#FDC8BD}\text{a}\color{#FDC1B8}\text{n}\color{#FCB3AC}\text{y}
-    \text{ - }
-    \color{#F99E99}\text{g}\color{#F6908F}\text{r}\color{#F38384}\text{e}\color{#F18182}\text{e}\color{#F08080}\text{k}
-  }$$
+  $${\large     \color{#290306}\text{t}\color{#460406}\text{h}\color{#4A090F}\text{e}\color{#5C171C}\text{y}\color{#6F292E}\text{/}\color{#813C41}\text{a}\color{#935055}\text{n}\color{#A4676B}\text{y}     \text{ - }     \color{#B68083}\text{g}\color{#C69A9B}\text{r}\color{#D3B2B1}\text{e}\color{#DDC7C5}\text{e}\color{#E0DFDA}\text{k}   }$$
 </p>
 
 <p align="center">
-  $${\large
-    \color{#FFEBD2}\text{c}\color{#FFE7D0}\text{+}\color{#FFE3CE}\text{h}
-    \text{ }
-    \color{#FEDCCC}\text{e}\color{#FED8C9}\text{n}\color{#FED4C7}\text{c}
-    \text{ }
-    \color{#FED1C5}\text{|}\color{#FECEC3}\text{|}
-    \text{ }
-    \color{#FEC7BF}\text{w}\color{#FEC3BD}\text{2}\color{#FEC0BB}\text{i}
-    \text{ }
-    \color{#F79997}\text{p}\color{#F59190}\text{r}\color{#F38988}\text{e}\color{#F28483}\text{f}\color{#F18181}\text{e}\color{#F08080}\text{r}\color{#F08080}\text{r}\color{#F08080}\text{e}\color{#F08080}\text{d}
-  }$$
+  $${\large     \color{#460406}\text{c}\color{#460406}\text{+}\color{#460406}\text{h}     \text{ }     \color{#4C090F}\text{e}\color{#581318}\text{n}\color{#652025}\text{c}     \text{ }     \color{#722E33}\text{\vert{}}\color{#7F3B40}\text{\vert{}}     \text{ }     \color{#8C4A4F}\text{w}\color{#9A595E}\text{2}\color{#A66A6E}\text{i}     \text{ }     \color{#B27B7E}\text{p}\color{#BD8C8E}\text{r}\color{#C79C9D}\text{e}\color{#CFABAC}\text{f}\color{#D7BABC}\text{e}\color{#DDC7C7}\text{r}\color{#E2D2D1}\text{r}\color{#E5DCDA}\text{e}\color{#E1E1DD}\text{d}   }$$
 </p>
