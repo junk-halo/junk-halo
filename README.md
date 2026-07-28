@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  $${\large     \color{#290306}\text{t}\color{#460406}\text{h}\color{#4A090F}\text{e}\color{#5C171C}\text{y}\color{#6F292E}\text{/}\color{#813C41}\text{a}\color{#935055}\text{n}\color{#A4676B}\text{y}     \text{ - }     \color{#B68083}\text{g}\color{#C69A9B}\text{r}\color{#D3B2B1}\text{e}\color{#DDC7C5}\text{e}\color{#E0DFDA}\text{k}   }$$
+  $${\large     \color{#460406}\text{t}\color{#460406}\text{h}\color{#4A090F}\text{e}\color{#5C171C}\text{y}\color{#6F292E}\text{/}\color{#813C41}\text{a}\color{#935055}\text{n}\color{#A4676B}\text{y}     \text{ - }     \color{#B68083}\text{g}\color{#C69A9B}\text{r}\color{#D3B2B1}\text{e}\color{#DDC7C5}\text{e}\color{#E0DFDA}\text{k}   }$$
 </p>
 
 <p align="center">
