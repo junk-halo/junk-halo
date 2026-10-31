@@ -8,3 +8,10 @@
 
 
 ![](https://i.postimg.cc/KzkmBJYS/Untitled316-20261018221554.png)
+
+<details>
+<summary></summary>
+
+![Screenshot](https://i.postimg.cc/RZKHXvv2/Untitled331-20261031143602.png)
+
+</details>
