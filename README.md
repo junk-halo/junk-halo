@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1&pause=100000&color=EDFAEC&vCenter=true&width=250&height=35&lines=KUGORI+or+kyle&repeat=false" alt="KUGORI or kyle">
 
 <img src="https://readme-typing-svg.demolab.com?lines=w2i+preferred%C2%A0%C2%A0%C2%A0%C2%A0semi-active;;c%2Bh+enc+always+unless+im+with;a+friend+who+isnt+comfortable;okk+sit+next+to+me+NOW%21;;usually+%40+FSR%2C+mafias%2C;docks+or+comics+area&font=Noto+Sans&size=14&duration=1&pause=0&color=6EC1A9&multiline=true&vCenter=true&width=250&height=170&repeat=false" alt="w2i preferred semi-active / c+h enc always unless im with a friend who isnt comfortable okk sit next to me NOW! / usually @ FSR, mafias, docks or comics area">
-<a href="graffiti-heap.atabook">ata</a>
+<a href="graffiti-heap.atabook">ata</a>`` <a href="https://basic-dni.crd.co/">dni</a>
     
   </tr>
 </table>
