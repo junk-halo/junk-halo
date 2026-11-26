@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td align="center" valign="middle">
-      <img src="https://i.postimg.cc/c13MQ1v7/Untitled370-20261122161113.png" alt="ALT TEXT here" width="250">
+      <img src="https://i.postimg.cc/c13MQ1v7/Untitled370-20261122161113.png" alt="kyle" width="250">
     </td>
     <td valign="middle" width="250">
 
